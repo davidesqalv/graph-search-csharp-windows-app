@@ -1,5 +1,5 @@
 # Graph Search Windows App in C#
-Made with Visual Studio C# a long time ago
+Made with Visual Studio C# a long time ago (around 2015)
 
 Windows Forms app that allows to perform Breadth First Search and Depth First Search on a graph the user inputs
 
